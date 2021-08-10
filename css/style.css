@@ -688,10 +688,6 @@ article {
   width: 100%;
   border-radius: 10px;
 }
-/* .landing {
-  opacity: 0;
-  display: none;
-} */
 
 /* portfolio view */
 .portfolio-view {
@@ -786,7 +782,7 @@ article {
   opacity: 1;
 }
 .port-m a {
-  color: var(--text-color-light);
+  color: var(--color);
 }
 
 /* testimal section styles */
